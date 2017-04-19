@@ -1,7 +1,7 @@
 # QLTurntableDemo
 ###一个简单的转盘抽奖demo，结构封装，用法简单。
 ##效果图
- ![image](https://github.com/QiuFairy/QLTurntableDemo/raw/master/QLTurntableDemo@2x.png)
+ ![image](https://github.com/QiuFairy/QLTurntableDemo/raw/master/QLTurntableDemo.png)
 
 ##使用方法
 
